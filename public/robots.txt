@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icf-industry-visit.vercel.app/sitemap.xml
